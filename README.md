@@ -1,5 +1,11 @@
 # IoT-Weather-Demo
-combining sensor data and the weather forecast for optimizing irrigation water usage
+Ths demo combines sensor data from the field that is sent to the ioT platform and the daily weather forecast for the local area.  The intent is to optimize the irrigation system and to manage a critical limited resource, in this case water.  
+
+This solution provides several benefits:
+  * the system give you visibility into the state of the farmable land by monitoring the environmental conditions
+  * making data driven decisions on whether to irrigate and for what duration
+  * more efficient and cost effective usage of critical water resources 
+  * extending the life of the irrigation equipment by saving wear and tear due to overwork
 
 
 # Contents
